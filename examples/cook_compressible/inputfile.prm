@@ -1,0 +1,28 @@
+# List of input variables
+# ---------------------
+
+# Number of meshing refine cycle
+  set Number of meshing refine cycle = 1
+
+# Shear Modulus
+  set Shear Modulus 1  = 422.5e3
+
+# Poisson's Ratio
+  set Poisson's Ratio 1 = 0.3
+  
+# Bulk Modulus
+#  set Bulk Modulus 1  = 0
+
+# Solution type (1 plane-stress; 2 plane-strain)
+  set Solution type (1 plane-stress; 2 plane-strain) = 2
+
+# Plate thickness
+  set Plate thickness = 1.0e-3
+  
+# Time settings
+  set Number of time increment steps = 10
+  set Save result = 1
+  
+# Newton solver
+  set Newton iteration tolerance = 1.0e-6
+  set Maximum Newton iteration = 10  

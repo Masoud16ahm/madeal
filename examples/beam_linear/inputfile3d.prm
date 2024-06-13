@@ -1,0 +1,11 @@
+# List of input variables
+# ---------------------
+
+# Number of meshing refine cycle
+  set Number of meshing refine cycle = 1
+
+# Young's Modulus
+  set Young's Modulus1 = 70e9
+
+# Poisson's Ratio
+  set Poisson's Ratio1 = 0.3

@@ -1,0 +1,17 @@
+# List of input variables
+# ---------------------
+
+# Number of meshing refine cycle
+  set Number of meshing refine cycle = 5
+
+# Young's Modulus
+  set Young's Modulus1 = 70e9
+
+# Poisson's Ratio
+  set Poisson's Ratio1 = 0.3
+
+# Solution type (1 plane-stress; 2 plane-strain)
+  set Solution type (1 plane-stress; 2 plane-strain) = 2
+
+# Plate thickness
+  set Plate thickness = 0.8

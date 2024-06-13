@@ -1,0 +1,14 @@
+# Inputs for generating RVE
+# ---------------------
+
+# Number of Fibres
+  set Number of Fibres = 25
+
+# Aspect Ratio of Fibres
+  set Aspect Ratio of Fibres = 10.0
+
+# Volume Fraction of Fibres
+  set Volume Fraction of Fibres = 0.10
+
+# Diameter of Fibres
+  set Diameter of Fibres = 1.0
